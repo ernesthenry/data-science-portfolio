@@ -15,7 +15,7 @@ Experienced in transforming raw data into actionable insights, building predicti
 ---
 
 ## TECHNICAL SKILLS
-- **Programming**: Python, SQL, TypeScript, 
+- **Programming**: Python, SQL, TypeScript, Javascript, Java, PHP, Rust
 - **Data Science**: Pandas, NumPy, SciPy, Scikit-Learn, Statsmodels
 - **Machine Learning**: XGBoost, LightGBM, Random Forest, Neural Networks
 - **Deep Learning**: PyTorch, TensorFlow, HuggingFace Transformers
