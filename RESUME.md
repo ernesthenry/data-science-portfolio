@@ -59,6 +59,10 @@ Experienced in transforming raw data into actionable insights, building predicti
 
 ## PROJECTS
 
+### Portfolio repositories
+- **Data Science & ML:** [github.com/ernesthenry/data-science-portfolio](https://github.com/ernesthenry/data-science-portfolio) — fraud, churn, recommendations, NLP, A/B testing, time series, MLOps, RAG retrieval evaluation.
+- **Agentic AI:** [github.com/ernesthenry/agentic_ai_portfolio](https://github.com/ernesthenry/agentic_ai_portfolio) — ReAct-style agent from scratch, multi-agent code reviewer (orchestrator + parallel specialists), persistent memory with vector search, LLM-as-judge eval framework (CI-ready).
+
 ### Fraud Detection ML System
 Developed a machine learning system to detect fraudulent transactions using feature engineering, ensemble models, and anomaly detection techniques.
 - **Tech**: Python, XGBoost, Scikit-Learn

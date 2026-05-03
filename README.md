@@ -30,6 +30,12 @@ Subscription churn modeling with LightGBM, SMOTE option, SHAP-friendly workflow,
 
 ---
 
+## Related portfolio
+
+For **agentic AI** (ReAct, multi-agent orchestration, persistent memory, eval frameworks) built on the Anthropic API, see the companion repo: **[Agentic AI Portfolio](https://github.com/ernesthenry/agentic_ai_portfolio)**.
+
+---
+
 ##  Suggested Datasets
 To run these projects with real-world data, see the [Recommended Datasets Guide](./datasets.md).
 
@@ -39,3 +45,4 @@ I am **Kato Ernest Henry**, a Senior Data Scientist and ML Engineer with a passi
 - [View my Resume](./RESUME.md)
 - [LinkedIn](https://www.linkedin.com/in/keh95/)
 - [GitHub](https://github.com/ernesthenry)
+- [Agentic AI Portfolio](https://github.com/ernesthenry/agentic_ai_portfolio) (agents, tool use, evaluation)
