@@ -15,6 +15,15 @@ A large-scale NLP pipeline for analyzing customer feedback. It uses state-of-the
 - BERTopic
 - Spacy
 
+## Recommended dataset
+**Primary:** **Yelp Open Dataset** — large review corpus for sentiment and topic work.
+
+- [Yelp Dataset](https://www.yelp.com/dataset)
+
+**Alternative:** **Amazon Fine Food Reviews** — structured ratings + review text.
+
+- [Kaggle: Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+
 ## How to Run
 1. Navigate to `4_nlp_review_analysis`
 2. Install dependencies: `pip install -r requirements.txt`

@@ -25,6 +25,9 @@ A production-grade ML pipeline demonstrating experiment tracking with MLflow and
 ### 7. [RAG Retrieval & Evaluation](./7_rag_retrieval_evaluation)
 Advanced RAG system focusing on retrieval metrics, reranking, and enterprise-scale knowledge access.
 
+### 8. [Customer Churn Prediction](./8_customer_churn_prediction)
+Subscription churn modeling with LightGBM, SMOTE option, SHAP-friendly workflow, and a Streamlit demo dashboard.
+
 ---
 
 ##  Suggested Datasets

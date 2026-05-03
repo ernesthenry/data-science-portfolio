@@ -43,3 +43,9 @@ To make this portfolio truly "complete," you can use the following high-quality,
     *   [Official Explorer](https://rajpurkar.github.io/SQuAD-explorer/)
 *   **ArXiv Metadata**: Over 1.7 million scholarly articles in PDF format.
     *   [Kaggle Link](https://www.kaggle.com/datasets/Cornell-University/arxiv)
+
+## 8. Customer Churn Prediction
+*   **Telco Customer Churn**: Subscription features with Yes/No churn label (IBM / Kaggle standard).
+    *   [Kaggle Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+*   **IBM HR Analytics Employee Attrition**: HR-style “attrition” as a churn analogue.
+    *   [Kaggle Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)

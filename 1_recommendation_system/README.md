@@ -16,6 +16,15 @@ This project implements a multi-stage recommendation engine using the MovieLens 
 - PyTorch
 - Surprise (for matrix factorization)
 
+## Recommended dataset
+**Primary:** **MovieLens** (100K / 1M / 25M) — standard benchmark for collaborative filtering and neural recommenders.
+
+- [GroupLens MovieLens](https://grouplens.org/datasets/movielens/)
+
+**Alternative:** **Amazon review / product metadata** — scale and cold-start realism.
+
+- [Amazon Review Data (Ni et al.)](https://nijianmo.github.io/amazon/index.html)
+
 ## How to Run
 1. Navigate to this directory: `cd 1_recommendation_system`
 2. Install dependencies: `pip install -r requirements.txt`

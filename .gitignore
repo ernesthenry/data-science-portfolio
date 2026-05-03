@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# scikit-learn download cache (used by MLOps demo pipeline)
+.sklearn_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / tooling
+.idea/
+.vscode/
+*.code-workspace
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Environment secrets
+.env
+.env.local

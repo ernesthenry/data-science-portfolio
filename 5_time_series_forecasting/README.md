@@ -16,8 +16,18 @@ Predicting future retail sales using historical data. This project compares clas
 - TensorFlow/Keras
 - Plotly
 
+## Recommended dataset
+**Primary:** **Walmart Store Sales** (weekly sales by store and department) — classic retail forecasting benchmark.
+
+- [Kaggle: Walmart Recruiting — Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+
+**Alternative:** **Store Item Demand Forecasting** — daily demand across stores.
+
+- [Kaggle: Store Item Demand Forecasting](https://www.kaggle.com/c/demand-forecasting-kernels-only)
+
 ## How to Run
 1. Navigate to `5_time_series_forecasting`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Forecast Walkthrough: `notebooks/01_sales_forecasting.ipynb`
-4. Production prediction: `python src/forecast.py`
+3. EDA & setup: `notebooks/01_eda.ipynb`
+4. Forecasting models: `notebooks/02_forecasting_models.ipynb`
+5. Production prediction: `python src/forecast.py`

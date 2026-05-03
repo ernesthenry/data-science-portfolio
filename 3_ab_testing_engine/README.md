@@ -15,6 +15,15 @@ A toolkit for designing, running, and analyzing A/B tests. This project provides
 - Streamlit
 - Plotly
 
+## Recommended dataset
+**Primary:** **Marketing A/B testing** — campaign / conversion style experiments for frequentist and Bayesian demos.
+
+- [Kaggle: Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
+
+**Alternative:** **E-commerce A/B testing** — user-level conversion logs.
+
+- [Kaggle: A/B Testing Dataset](https://www.kaggle.com/datasets/zhangluyuan/ab-testing)
+
 ## How to Run
 1. Navigate to `3_ab_testing_engine`
 2. Install dependencies: `pip install -r requirements.txt`

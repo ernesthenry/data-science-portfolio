@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+imbalanced-learn
+matplotlib
+seaborn
+streamlit
+
+# Optional explainability (requires Python <3.14 for numba/shap wheels today):
+# pip install shap
