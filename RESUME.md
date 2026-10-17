@@ -15,7 +15,7 @@ Experienced in transforming raw data into actionable insights, building predicti
 ---
 
 ## TECHNICAL SKILLS
-- **Programming**: Python, SQL, TypeScript, Javascript, Java, PHP, Rust
+- **Programming**: Python, Go, SQL, TypeScript, Javascript, Java, PHP, Rust
 - **Data Science**: Pandas, NumPy, SciPy, Scikit-Learn, Statsmodels
 - **Machine Learning**: XGBoost, LightGBM, Random Forest, Neural Networks
 - **Deep Learning**: PyTorch, TensorFlow, HuggingFace Transformers
@@ -60,8 +60,12 @@ Experienced in transforming raw data into actionable insights, building predicti
 ## PROJECTS
 
 ### Portfolio repositories
-- **Data Science & ML:** [github.com/ernesthenry/data-science-portfolio](https://github.com/ernesthenry/data-science-portfolio) — fraud, churn, recommendations, NLP, A/B testing, time series, MLOps, RAG retrieval evaluation.
+- **Data Science & ML:** [github.com/ernesthenry/data-science-portfolio](https://github.com/ernesthenry/data-science-portfolio) — energy market time series forecasting & trading platform feed, fraud, churn, recommendations, NLP, A/B testing, MLOps, RAG retrieval evaluation.
 - **Agentic AI:** [github.com/ernesthenry/agentic_ai_portfolio](https://github.com/ernesthenry/agentic_ai_portfolio) — ReAct-style agent from scratch, multi-agent code reviewer (orchestrator + parallel specialists), persistent memory with vector search, LLM-as-judge eval framework (CI-ready).
+
+### Wholesale Energy Market Time Series Forecasting & Trading Platform Feed
+Built multi-horizon probabilistic time series forecasting models for weather, power grid supply/demand (Duck Curve), and electricity prices (LMP quantiles P10/P50/P90), feeding a live trading platform with virtual bidding arbitrage and 4-hour battery storage dispatch. Built production FastAPI/SSE streaming endpoints, advanced SQL queries, and a concurrent Go execution client.
+- **Tech**: Python (LightGBM, Scikit-Learn, Pandas), Go, SQL, FastAPI, Streamlit
 
 ### Fraud Detection ML System
 Developed a machine learning system to detect fraudulent transactions using feature engineering, ensemble models, and anomaly detection techniques.

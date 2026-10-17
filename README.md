@@ -28,6 +28,9 @@ Advanced RAG system focusing on retrieval metrics, reranking, and enterprise-sca
 ### 8. [Customer Churn Prediction](./8_customer_churn_prediction)
 Subscription churn modeling with LightGBM, SMOTE option, SHAP-friendly workflow, and a Streamlit demo dashboard.
 
+### 9. [Energy Market Time Series Forecasting & Trading Platform Feed](./9_energy_market_forecasting)
+Multi-horizon probabilistic forecasting for weather, power grid supply & demand (Duck Curve), and electricity prices (LMP quantiles $P_{10}, P_{50}, P_{90}$) with production trading platform feeds (Python FastAPI, SQL Timescale/SQLite, Go execution gateway) and daily agentic coding workflows.
+
 ---
 
 ## Related portfolio
